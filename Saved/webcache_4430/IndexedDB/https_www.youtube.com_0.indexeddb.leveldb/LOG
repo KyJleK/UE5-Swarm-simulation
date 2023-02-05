@@ -1,0 +1,6 @@
+2023/02/04-10:53:12.165 4120 Creating DB L:/UE4/projects Unreal/SwarmTest/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/02/04-10:53:12.323 4120 Reusing MANIFEST L:/UE4/projects Unreal/SwarmTest/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/04-11:08:50.306 1ed4 Level-0 table #5: started
+2023/02/04-11:08:50.374 1ed4 Level-0 table #5: 7737 bytes OK
+2023/02/04-11:08:50.413 1ed4 Delete type=0 #3
+2023/02/04-11:08:50.413 1ed4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
